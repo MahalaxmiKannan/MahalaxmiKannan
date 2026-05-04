@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mahalaxmi 👋</h1>
+<h1 align="center">Hi, I'm Mahalaxmi Kannan 👋</h1>
 <h3 align="center">AI & DS Undergrad · Building ML systems that ship</h3>
 
 <p align="center">
