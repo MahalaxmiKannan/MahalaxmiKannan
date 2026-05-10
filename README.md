@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/NLP-Transformers-blue?style=flat" />
 </p>
 
@@ -56,7 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahalaxmiKannan&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahalaxmiKannan&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahalaxmiKannan&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahalaxmiKannan&theme=default&hide_border=true" />
@@ -75,7 +74,15 @@
 | 🏨 Resort Booking System | React, Spring Boot | Full-stack reservation management |
 
 ---
+## 🏆 Achievements
+- 🥇 2 ML/AI Internships completed (2nd year)
+- 🏅 200+ LeetCode problems solved
+- 🏆 Guvi SheCode Hackathon — 4th Place Winner
+- 🏅 HackSprint by IamNeo — Finalist
+- 🏅 Care Hackathon — Finalist
+- 📜 5 Certifications — Meta, Microsoft, Infosys, ServiceNow
 
+<br>
 <p align="center">
   <i>⚡ "I don't just study AI — I build with it."</i>
 </p>
